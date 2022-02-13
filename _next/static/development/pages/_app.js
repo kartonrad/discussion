@@ -548,7 +548,7 @@ exports.push([module.i, "@import url(https://fonts.googleapis.com/css2?family=No
 exports.push([module.i, "@import url(https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap);"]);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
 // Module
-exports.push([module.i, "@font-face {\n  font-family: \"PixelFont\";\n  src: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") format(\"truetype\");\n  font-style: normal;\n  font-weight: 400;\n}\n:root {\n  font-family: \"Noto Sans TC\", sans-serif;\n  scrollbar-color: #535353 #181a1b;\n  scrollbar-width: auto;\n}\n\nbody {\n  font-family: \"Noto Sans TC\", sans-serif;\n  margin: 0px;\n  overflow-x: hidden;\n  color: white;\n}\n\na, a:visited, a:hover {\n  color: inherit;\n}", "",{"version":3,"sources":["global.sass"],"names":[],"mappings":"AASA;EACI,wBAAA;EACA,+DAAA;EACA,kBAAA;EACA,gBAAA;AANJ;AASA;EACI,uCAAA;EACA,gCAAA;EACA,qBAAA;AAPJ;;AASA;EACI,uCAAA;EACA,WAAA;EACA,kBAAA;EACA,YAAA;AANJ;;AASA;EACI,cAAA;AANJ","file":"global.sass","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap')\r\n@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap')\r\n\r\n// @font-face \r\n//     font-family: \"PixelFont\" \r\n//     src: url(\"/FFFFORWA.TTF\") format(\"truetype\")\r\n//     font-style: normal\r\n//     font-weight: 400\r\n\r\n@font-face \r\n    font-family: \"PixelFont\" \r\n    src: url(\"../public/Gamepixies.ttf\") format(\"truetype\")\r\n    font-style: normal\r\n    font-weight: 400\r\n\r\n    \r\n:root\r\n    font-family: 'Noto Sans TC', sans-serif\r\n    scrollbar-color: #535353 #181a1b\r\n    scrollbar-width: auto\r\n\r\nbody \r\n    font-family: 'Noto Sans TC', sans-serif\r\n    margin: 0px\r\n    overflow-x: hidden\r\n    color: white\r\n    \r\n\r\na, a:visited, a:hover \r\n    color: inherit"]}]);
+exports.push([module.i, "@font-face {\n  font-family: \"PixelFont\";\n  src: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") format(\"truetype\");\n  font-style: normal;\n  font-weight: 400;\n}\n:root {\n  font-family: \"Noto Sans TC\", sans-serif;\n  scrollbar-color: #535353 #181a1b;\n  scrollbar-width: auto;\n}\n\nbody {\n  font-family: \"Noto Sans TC\", sans-serif;\n  margin: 0px;\n  overflow-x: hidden;\n  color: white;\n}\n\na, a:visited, a:hover {\n  color: inherit;\n}", "",{"version":3,"sources":["C:/Users/kongr/Documents/ProjectHome/Programming/node/discussion/style/global.sass"],"names":[],"mappings":"AASA;EACI,wBAAA;EACA,+DAAA;EACA,kBAAA;EACA,gBAAA;AANJ;AASA;EACI,uCAAA;EACA,gCAAA;EACA,qBAAA;AAPJ;;AASA;EACI,uCAAA;EACA,WAAA;EACA,kBAAA;EACA,YAAA;AANJ;;AASA;EACI,cAAA;AANJ","file":"global.sass","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap')\r\n@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap')\r\n\r\n// @font-face \r\n//     font-family: \"PixelFont\" \r\n//     src: url(\"/FFFFORWA.TTF\") format(\"truetype\")\r\n//     font-style: normal\r\n//     font-weight: 400\r\n\r\n@font-face \r\n    font-family: \"PixelFont\" \r\n    src: url(\"../public/Gamepixies.ttf\") format(\"truetype\")\r\n    font-style: normal\r\n    font-weight: 400\r\n\r\n    \r\n:root\r\n    font-family: 'Noto Sans TC', sans-serif\r\n    scrollbar-color: #535353 #181a1b\r\n    scrollbar-width: auto\r\n\r\nbody \r\n    font-family: 'Noto Sans TC', sans-serif\r\n    margin: 0px\r\n    overflow-x: hidden\r\n    color: white\r\n    \r\n\r\na, a:visited, a:hover \r\n    color: inherit"]}]);
 // Exports
 module.exports = exports;
 
@@ -4281,7 +4281,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_dist_client_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! next/dist/client/router */ "./node_modules/next/dist/client/router.js");
 /* harmony import */ var next_dist_client_router__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_dist_client_router__WEBPACK_IMPORTED_MODULE_6__);
 
-var _jsxFileName = "C:\\Users\\kongr\\Documents\\ProjectHome\\node\\drkslv\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\kongr\\Documents\\ProjectHome\\Programming\\node\\discussion\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -4561,7 +4561,7 @@ module.exports = content.locals || {};
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js&hotRouterUpdates=true!./");
-module.exports = __webpack_require__(/*! C:\Users\kongr\Documents\ProjectHome\node\drkslv\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! C:\Users\kongr\Documents\ProjectHome\Programming\node\discussion\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ }),
